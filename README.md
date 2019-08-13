@@ -1,4 +1,4 @@
-**Day Twenty Seven - 30 days of React challenge - Geography App using nested routes to display data from API**
+**Day Twenty Eight - 30 days of React challenge - MERN stack backend for a 'note to self' app**
 
 Playing around with MERN backends, writing one from scratch and researching all the elements involved so I understand exactly what goes on under the hood for future projects!
 
