@@ -6,7 +6,7 @@ A react app with a website feel, shows nested routes as url and calls data from 
 
 - What is a MERN stack
 - Server setup, database, middleware, general config
-- Mongoose schema
+- Schema w Mongoose
 - Writing HTTP requests
 - HTTP requests with Postman
 
