@@ -2,7 +2,7 @@
 
 Playing around with MERN backends, writing one from scratch and researching all the elements involved so I understand exactly what goes on under the hood for future projects!
 
-**Concepts Explored:**
+**Concepts Explored:** 
 
 - What is a MERN stack
 - Server setup, database, middleware, general config
